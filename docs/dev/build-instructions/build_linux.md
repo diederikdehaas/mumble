@@ -62,12 +62,14 @@ sudo apt install \
   libcap-dev \
   libgl-dev \
   libogg-dev \
+  libpipewire-0.3-dev \
   libpoco-dev \
   libprotobuf-dev \
   libprotoc-dev \
   libqt6svg6-dev \
   libsndfile1-dev \
   libspeechd-dev \
+  libspeexdsp-dev \
   libssl-dev \
   libxcb-xinerama0 \
   libxi-dev \
